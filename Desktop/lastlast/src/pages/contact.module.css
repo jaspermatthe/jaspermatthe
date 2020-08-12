@@ -1,0 +1,13 @@
+.emaillink { 
+    color: #1b1c1b;
+    background-color: #e9edf5;
+    font-size: 100%;
+    margin: 0;
+    line-height: 1.4283;
+    font-family: "Roboto Mono";
+    opacity: 1;
+}
+
+.emaillink:hover {
+    color: #fc7351;
+}
