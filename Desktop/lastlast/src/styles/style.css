@@ -19,3 +19,11 @@
     text-decoration: none;
   }
   */
+
+  a:hover {
+    color: #fc7351;
+  }
+
+  a {
+    text-decoration: none;
+  }

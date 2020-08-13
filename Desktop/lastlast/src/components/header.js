@@ -16,7 +16,7 @@ const Header = () => {
         `
       )
     return (
-      <header className={headerStyles.header}>
+      <header className={headerStyles.headercontainer}>
           <div className={headerStyles.overlay}></div>
         <div className={headerStyles.heroContent}>
             <Link to="/" className={headerStyles.brand}>{data.site.siteMetadata.title}</Link>
@@ -27,22 +27,22 @@ const Header = () => {
         <nav className={headerStyles.navContainer}>
             <ul className={headerStyles.navList}>
                 <li>
-                    <Link to="/" activeClassName={headerStyles.activeMenuItem}>
+                    <Link to="/" activeClassName={headerStyles.activeMenuItem} className={headerStyles.navList}>
                     Home
                     </Link>
                 </li>
                 <li>
-                    <Link to="/blog/" activeClassName={headerStyles.activeMenuItem}>
+                    <Link to="/blog/" activeClassName={headerStyles.activeMenuItem} className={headerStyles.navList}>
                     Blog
                     </Link>
                 </li>
                 <li>
-                    <Link to="/contact/" activeClassName={headerStyles.activeMenuItem}>
+                    <Link to="/contact/" activeClassName={headerStyles.activeMenuItem} className={headerStyles.navList}>
                     Contact
                     </Link>
                 </li>
                 <li>
-                    <Link to="/about/" activeClassName={headerStyles.activeMenuItem}>
+                    <Link to="/about/" activeClassName={headerStyles.activeMenuItem} className={headerStyles.navList}>
                     About
                     </Link>
                 </li>

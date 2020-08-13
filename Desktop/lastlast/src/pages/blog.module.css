@@ -16,6 +16,7 @@
 
 .post {
     padding-bottom: 40px;
+    margin-top: 40px;
 }   
 
 .post:last-child {
@@ -67,4 +68,7 @@ padding: 20px 0;
 .blognameformat {
     font-size: 30px;
     max-width: 500px;
+    text-decoration: none;
+    color: #1b1c1b;
 }
+

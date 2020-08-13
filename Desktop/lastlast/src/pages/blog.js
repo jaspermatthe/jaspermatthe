@@ -39,10 +39,6 @@ const Blog = () => {
   return (
     <Layout>
       <Metadata title="Blog" description="Check out my blog" />
-      <div>
-        <h1>Blog</h1>
-        <p>Ibas is a web developer, teacher and a creative writer.</p>
-      </div>
       <ul className={blogStyles.posts}>
         {data.allMarkdownRemark.edges.map(edge => {
           return (
