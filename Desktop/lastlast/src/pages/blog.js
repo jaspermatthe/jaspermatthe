@@ -16,6 +16,7 @@ const Blog = () => {
                     frontmatter {
                     title
                     date(formatString: "DD MMMM, YYYY")
+                    excerpt
                     featured {
                       childImageSharp {
                         fluid(maxWidth: 750) {
@@ -25,7 +26,6 @@ const Blog = () => {
                     }
                     }
                     timeToRead
-                    excerpt
                     id
                     fields {
                       slug
@@ -63,8 +63,8 @@ const Blog = () => {
                 />
               )
               }
-              <div>
-              <p className={blogStyles.excerpt}>{edge.node.excerpt}</p>
+              <div className={blogStyles.excerpt}>
+              <p>{edge.node.frontmatter.excerpt}</p>
               </div>
               <div className={blogStyles.button}>
                 <Link to={`/blog/${edge.node.fields.slug}/`}>Read More</Link>

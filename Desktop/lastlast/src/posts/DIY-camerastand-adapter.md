@@ -8,3 +8,4 @@ excerpt: "I wanted an easy and portable way to take quality photos and videos. T
 More to come...
 
 ![taken on camera stand](tl_murtle.MOV)
+
