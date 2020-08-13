@@ -1,22 +1,11 @@
 ---
 title: "Aspiring Architect | Part 1: the House"
 date: "2020-01-18"
-featured: "../images/header-image.jpg"
+featured: "../images/house.jpg"
 
-description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi maxime reprehenderit accusamus, explicabo eligendi necessitatibus soluta…"
+description: "My family is planning on building a new house. My new blog section, Aspiring Architect, will be showcasing all my ideas put forward for the big project."
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit.
+More to come...
 
-## Excepturi maxime
-
-reprehenderit accusamus, explicabo eligendi necessitatibus soluta!
-
-![gatsby tutorial](../images/gatsby-tutorial.jpeg)
-
-Ipsam mollitia alias temporibus dicta
-
-1. omnis earum nobis
-2. architecto, quia
-3. officiis aperiam
-4. voluptate quaerat
+![My house](../images/house.jpg)
