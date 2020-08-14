@@ -13,9 +13,6 @@
   .hello {
     margin: 0 auto;
     max-width: 900px;
-    padding: 0rem 0rem 2rem 0rem;
+    padding: 0rem 10px 2rem 10px;
     position: relative;
-    
-    margin-left: 10px;
-    margin-right: 10px;
   }
