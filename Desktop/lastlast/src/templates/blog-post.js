@@ -14,7 +14,7 @@ export const query = graphql`
         date(formatString: "DD MMMM, YYYY")
         featured {
           childImageSharp {
-            fluid(maxWidth: 750) {
+            fluid(quality: 100, maxWidth: 900) {
               ...GatsbyImageSharpFluid
             }
           }
@@ -25,6 +25,7 @@ export const query = graphql`
     }
   }
 `
+
 
 const BlogPost = props => {
   return (

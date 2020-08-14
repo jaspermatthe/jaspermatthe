@@ -14,14 +14,14 @@ const Index = () => {
         </p>
 
         <h2>A little about me...</h2>
-        <p>I'm a seventeen-year-old student at Semiahmoo Secondary School in South Surrey, British Columbia...<br></br>
-        I'm enrolled in the International Baccalaureate Program..<br></br>
-        I play soccer and I love it...<br></br>
-        I love to travel...<br></br>
-        I want to be an architect...<br></br>
-        I hope to share all my interests with the world through this website...<br></br>
-        Have a browse to learn a bit more about me!
-        
+        <p>
+          <ul>I'm a seventeen-year-old student at Semiahmoo Secondary School in South Surrey, British Columbia...</ul>
+          <ul>I'm enrolled in the International Baccalaureate Program...</ul>
+          <ul>I play soccer and I love it...</ul>
+          <ul>I love to travel...</ul>
+          <ul>I want to be an architect...</ul>
+          <ul>I hope to share all my interests with the world through this website...</ul>
+          <ul>Have a browse to learn a bit more about me!</ul>
 
 
         </p>

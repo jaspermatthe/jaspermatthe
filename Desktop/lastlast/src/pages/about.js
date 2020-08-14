@@ -9,7 +9,12 @@ const About = () => {
       <Metadata title="About" description="About" />
     <div>
       <h1>About Page</h1>
-      <p>Ibas is a web developer, teacher and a creative writer.</p>
+      <p>
+      <ul>I'm a twelth grade student in South Surrey, British Columbia, at Semiahmoo Secondary School.</ul>
+      <ul>I'm captain of my Coastal FC 03 BCSPL soccer team</ul>
+      <ul>I'm half-Belgian half-Hongkongese</ul>
+
+      </p>
     </div>
     </Layout>
   )
