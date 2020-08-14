@@ -1,5 +1,4 @@
 import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
 import backtotopStyles from "./backtotop.module.css"
 
 const BT = () => {
