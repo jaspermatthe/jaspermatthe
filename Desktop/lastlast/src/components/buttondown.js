@@ -12,9 +12,9 @@ const Buttondown = () => {
             >
             <p className={buttondownStyles.subscribetitle}>Subscribe to my Blog Here!</p>
             <label for="bd-email">Enter your email <i class="fas fa-arrow-right"></i> </label>
-            <input type="email" name="email" id="bd-email"></input>
+            <input className={buttondownStyles.inputbdemail} type="email" name="email" id="bd-email"></input>
             <input type="hidden" value="1" name="embed"></input>
-            <input type="submit" value="Subscribe"></input>
+            <input className={buttondownStyles.subbtn} type="submit" value="Subscribe"></input>
         </form>
     )
 }
