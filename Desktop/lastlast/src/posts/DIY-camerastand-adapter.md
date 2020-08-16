@@ -9,8 +9,7 @@ excerpt: "I wanted an easy and portable way to take quality photos and videos. T
 # Camera Stands
 Camera stands. So simple, yet so useful. Since my sister got her camera back in December of 2014, our Manfrotto camera stand has been so very useful. From school theatre class projects, to food photography to family photos (minus having to balance one's device precariously on a ledge that would lead to the device's destruction if even a slight breeze were to tip it over), the camera stand has become an indispensable asset when it comes to photography.
 
-![Camera Stand and Canon EOS Kiss X7](../images/stand.JPG)
-*Manfrotto Camera Stand and Canon EOS Kiss X7 [taken on iPhone 11]*
+![](../images/stand.JPG "Manfrotto Camera Stand and Canon EOS Kiss X7 [taken on iPhone 11]")
 
 # New Camera
 I'm seventeen and I've only had three different phones in my life:
@@ -18,7 +17,7 @@ I'm seventeen and I've only had three different phones in my life:
 - Xiaomi Redmi 4X (2016-2020)
 - Apple iPhone 11 (2020-Present)
 
-![Phones](../images/phones.jpg)
+![Phones](../images/phones.jpg "My phones")
 
 I'll tell you what. My iPhone 4 took better photos than my Redmi 4X. That really annoyed me. All I ever wanted to do was take qualilty photos and videos of all my vacations around the world. Instead, I was left with a cheap Chinese phone my dad insisted was amazing. It took horrendous photos.
 
@@ -38,8 +37,7 @@ Instead of bringing my sister's heavy camera, I wanted to bring my iPhone to tak
 
 ## What you'll need
 
-![Ingredients](../images/ingredientswithname.jpg)
-*You can put electrical tape around the metal brackets to protect your phone*
+![Ingredients](../images/ingredientswithname.jpg "You can put electrical tape around the metal brackets to protect your phone")
 
 1. <strong>Remove camera stand camera adapter</strong>
 
@@ -62,8 +60,8 @@ Instead of bringing my sister's heavy camera, I wanted to bring my iPhone to tak
     - Put the small bracket back into its position.
     - Using a Sharpie, mark the location of the holes you just drilled onto the large bracket.
     - Remove the small bracket and drill the holes you just marked.
-    ![](../images/holes.JPG)
-    *As you can see I had to improvise with the locations of the holes since there were already some mismatched ones on the larger bracket. It still worked though!*
+    ![](../images/holes.JPG "As you can see I had to improvise with the locations of the holes since there were already some mismatched ones on the larger bracket. It still worked though!")
+
 5. <strong>Put it together!</strong>
 
     - Align the two brackets and put two screws through the side holes, from the bottom upwards.
@@ -75,13 +73,11 @@ Instead of bringing my sister's heavy camera, I wanted to bring my iPhone to tak
     - The screw should protrude through the adpater and you should be able to insert it through the bracket combination's center hole.
     - Take the nut and secure the center screw.
 
-    ![](../images/final1.JPG)
-    *View from photographer's point of view*
+    ![](../images/final1.JPG "View from photographer's point of view")
 
-    ![](../images/side.JPG)
-    *View from side*
+    ![](../images/side.JPG "View from side")
 
-    ![](../images/final3.JPG)
-    *View from back*
+    ![](../images/final3.JPG "View from back")
+    
 
 6. <strong>Start using your camera stand and phone!</strong>

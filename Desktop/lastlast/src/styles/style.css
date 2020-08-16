@@ -28,6 +28,11 @@
     text-decoration: none;
   }
 
+  .gatsby-resp-image-figcaption {
+    text-align: center;
+    font-style: italic;
+  }
+
   /* MY COLORS:
 
   black: #1b1c1b
