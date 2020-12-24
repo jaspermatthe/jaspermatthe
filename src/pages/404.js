@@ -10,7 +10,7 @@ const NotFound = () => {
       <Metadata title="Home" description="This is my home page" />
       <h1>404: Page Not Found</h1>
       <p>
-        <Link to="/blog/">Check our latest articles</Link>
+        <Link to="/blog/">Check my latest blog posts</Link>
       </p>
     </Layout>
   )
