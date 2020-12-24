@@ -1,0 +1,12 @@
+.btcontain a{
+    position: fixed;
+    bottom: 40px;
+    right: 15px;
+    color: #fc7351;
+}
+
+.btcontain a:hover {
+    color: #fc7351;
+    transform: scale(1.3);
+}
+

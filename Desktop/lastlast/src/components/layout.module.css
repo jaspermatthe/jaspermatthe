@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    flex-wrap: wrap;
+    flex-shrink: 0;
+  }
+  
+  .content {
+    flex-grow: 1;
+  }
+
+  .hello {
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 0rem 10px 2rem 10px;
+    position: relative;
+  }
