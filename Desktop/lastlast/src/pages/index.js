@@ -8,8 +8,8 @@ const Index = () => {
     <Layout>
       <Metadata title="Home" description="This is my home page" />
       <div className={indexStyles.herotext}>
-        <h1>Home page</h1>
-        <p>My name is Jasper.
+        <h1>Jasper Matthé</h1>
+        <p>
           Welcome to my website!
         </p>
 
@@ -17,11 +17,11 @@ const Index = () => {
         <p>
           <ul>I'm a seventeen-year-old student at Semiahmoo Secondary School in South Surrey, British Columbia...</ul>
           <ul>I'm enrolled in the International Baccalaureate Program...</ul>
-          <ul>I play soccer and I love it...</ul>
+          <ul>I play soccer...</ul>
           <ul>I love to travel...</ul>
-          <ul>I want to be an architect...</ul>
-          <ul>I hope to share all my interests with the world through this website...</ul>
+          <ul>I want to be an architect... (getting a bachelor's in engineering first)</ul>
           <ul>Have a browse to learn a bit more about me!</ul>
+          
 
 
         </p>
