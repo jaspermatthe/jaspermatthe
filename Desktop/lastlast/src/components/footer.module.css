@@ -2,6 +2,7 @@
   background-color: #1b1c1b;
   color: #515151;
   position: relative;
+  display: inline;
 }
 .container {
   text-align: right;

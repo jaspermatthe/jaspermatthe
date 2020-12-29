@@ -20,17 +20,17 @@ const Footer = () => {
       <div className={footerStyles.socialcontainer}>
       <div className={footerStyles.social}>
               <a href="https://www.facebook.com/matthejasper" target="_blank" rel="noreferrer noopener" className={footerStyles.facebook}>
-                <i className="fab fa-facebook-square fa-4x" />
+                <i className="fab fa-facebook-square fa-2x" />
               </a>
       </div>
       <div className={footerStyles.social}>
               <a href="https://www.instagram.com/jasper.matthe/" target="_blank" rel="noreferrer noopener" className={footerStyles.facebook}>
-                <i className="fab fa-instagram fa-4x" />
+                <i className="fab fa-instagram fa-2x" />
               </a>
       </div>
       <div className={footerStyles.social}>
               <a href="https://www.linkedin.com/in/jasper-matth%C3%A9-451396152/" target="_blank" rel="noreferrer noopener" className={footerStyles.facebook}>
-                <i className="fab fa-linkedin fa-4x" />
+                <i className="fab fa-linkedin fa-2x" />
               </a>
       </div>
       </div>

@@ -41,11 +41,6 @@ const Header = () => {
                     Contact
                     </Link>
                 </li>
-                <li>
-                    <Link to="/about/" activeClassName={headerStyles.activeMenuItem} className={headerStyles.navList}>
-                    About
-                    </Link>
-                </li>
             </ul>
         </nav>
       </header>
